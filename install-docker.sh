@@ -12,4 +12,4 @@ N="\e[31m"
  sudo systemctl enable docker
  sudo systemctl status docker
  usermod -aG docker ec2-user
- echo -e "$R Logout and Login again $N"
+ echo -e "$R Logout and Login again $"
